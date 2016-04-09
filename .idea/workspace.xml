@@ -23,10 +23,7 @@
     <option name="LOGCAT_FORMAT_STRING" value="%4$c: %6$s" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d0bf4d7-3e28-4d83-992b-985932c82d70" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="6d0bf4d7-3e28-4d83-992b-985932c82d70" name="Default" comment="" />
     <ignored path="Pictures.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
